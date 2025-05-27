@@ -1,5 +1,7 @@
 # Loan Interest Rate & Borrower Risk Analysis
 
+## 👤 Author
+
 | Name            | Role              | LinkedIn                                      |
 |-----------------|-------------------|-----------------------------------------------|
 | Jason Emmanuel  | Data Analyst | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
