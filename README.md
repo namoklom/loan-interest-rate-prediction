@@ -72,6 +72,22 @@ The dataset contains the following key attributes:
 
 ---
 
+## 📊 Visualizations
+
+![image](https://github.com/user-attachments/assets/199bc93f-8a40-430a-8b96-53c7fb04484b)
+
+The boxplot illustrates the distribution of interest rates across different education levels—Basic, Primary, Secondary, Higher, and Vocational. Each box represents the interquartile range (IQR), with the horizontal line inside marking the median interest rate. The whiskers extend to 1.5 times the IQR, and the dots outside the whiskers indicate outliers, which are numerous across all education levels. While the central tendency (median) of interest rates is relatively similar across groups, there is a wide spread and a large number of high outliers, especially beyond the 100% interest rate mark. This suggests substantial variability in interest rates, regardless of education level.
+
+![image](https://github.com/user-attachments/assets/0a160887-62fd-4295-b878-507232f07cb0)
+
+The scatter plots illustrate the relationships between interest rate and four variables: loan duration, total income, amount of previous loans before the current loan, and debt-to-income ratio. Overall, the data exhibits a negative correlation trend, where higher values of the x-axis variables generally correspond to lower interest rates. In particular, as loan duration, income, previous loan amount, or debt-to-income increases, interest rates tend to decrease and become more concentrated below 50%. However, there is considerable dispersion and the presence of outliers, especially in lower ranges, indicating variability and suggesting that other factors might also be influencing interest rates.
+
+![image](https://github.com/user-attachments/assets/11c83bc2-30eb-4a98-95e6-e19660db4720)
+
+The scatter plot with a fitted regression line shows the relationship between the amount of previous loans before the current loan and the interest rate, modeled using simple linear regression. The negative slope of the red line of best fit indicates a weak but noticeable inverse relationship: as the amount of previous loans increases, the interest rate tends to decrease. However, the wide spread of data points and concentration of high interest rates at lower loan amounts suggest that the relationship is not strictly linear and may be influenced by other factors or better modeled with a non-linear approach.
+
+---
+
 ## 🔍 Conclusions & Future Work
 
 - Some borrower characteristics correlate with loan interest rates and risk but overall relationships are weak  
