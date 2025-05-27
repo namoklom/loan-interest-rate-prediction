@@ -119,5 +119,5 @@ The scatter plot with a fitted regression line shows the relationship between th
 
 1. Clone this repository  
 2. Open the Jupyter Notebook (`loan_interest_rate_analysis_statistics.ipynb`) for step-by-step code and explanations  
-3. Explore the dataset (`bondora_data.csv`) included or download it from the source  
+3. Explore the dataset (`LoanData.csv`) included or download it from the source  
 4. Modify or extend analyses as needed  
