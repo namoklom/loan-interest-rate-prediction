@@ -4,7 +4,7 @@
 
 | Name            | Role              | LinkedIn                                      |
 |-----------------|-------------------|-----------------------------------------------|
-| Jason Emmanuel  | Data Analyst | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
+| Jason Emmanuel  | Data Aalyst | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
 
 This project analyzes a **fintech loan dataset** (Bondora P2P Loans) to explore the factors affecting **loan interest rates** and identify **borrower risk**. It includes data cleaning, exploratory data analysis (EDA), and basic predictive modeling to provide insights into lending behavior.
 
